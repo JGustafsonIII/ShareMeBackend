@@ -20,7 +20,6 @@ export default createSchema({
     /* Your types here! */
     user,
     pin,
-    pin,
     postedBy,
     comment,
     save,
